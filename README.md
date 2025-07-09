@@ -1,4 +1,4 @@
-# 📚 Library Dashboard – React + GraphQL (Hasura)
+# 📚 Library App – React + GraphQL (Hasura)
 
 **Learning project to practice GraphQL queries, mutations, and subscriptions with a React frontend and Hasura backend.**  
 This project will also explore real-time updates using **WebSockets (GraphQL Subscriptions)**.
